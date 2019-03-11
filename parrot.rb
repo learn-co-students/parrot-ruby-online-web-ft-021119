@@ -1,6 +1,6 @@
-def parrot(species = "Squawk!")
- puts "#{species}"
- "#{species}"
+def parrot(phrase = "Squawk!")
+ puts "#{phrase}"
+ "#{phrase}"
 end
 
 
